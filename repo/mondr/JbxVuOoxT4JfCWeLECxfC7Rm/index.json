@@ -2,8 +2,8 @@
   "repository":{
     "name":"Mondr Beta Repo",
     "maintainer":"Mondr Team",
-    "website":"emailto:mondrrepos@icloud.com",
-    "description":"Jpg CSS3 variable. Silicon Valley Kristen toggle. Alert DOM Heather. Ryan Pied Piper sketch. Return join hypertext. Error header T-Swift. Love code parameter. Hooli Silicon Valley CSS3. Method return key. Software people give yourself an auto high-five.",
+    "website":"https://twitter.com/MondrRepos/",
+    "description":"Offical Mondr Repo",
     "icon":"https://az820584.vo.msecnd.net/pub/jpgnchbr",
     "packages":[
         {
@@ -11,7 +11,7 @@
           "name": "Emu4iOS Repo",
           "version": "n/a",
           "author": "Mondr Team",
-          "description": "IMPORTANT: Tapping on «GET» button will exit Mojo app.
+          "description": "IMPORTANT: Tapping on GET button will exit Mojo app.
 
 Unofficial Emu4iOS Repo by Mondr's Repositories.",
           "info": "",
